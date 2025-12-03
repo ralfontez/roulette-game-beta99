@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
-  "homepage": "https://ralfontez.github.io/roulette-game-beta99/",
-
+  "homepage": "https://ralfontez.github.io/roulette-game-beta50",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
